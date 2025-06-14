@@ -1,0 +1,24 @@
+# ⛔ Archivos temporales y partidas guardadas
+Save/
+save/
+*.rpgsave
+*.bak
+*.tmp
+
+# ⚙️ Configuración de usuario/editor (opcional ignorar)
+*.log
+*.db
+*.ldb
+
+# 🗂️ Sistema de control de versiones de RPG Maker
+Backup/
+Thumbs.db
+.DS_Store
+
+# 🧪 Archivos de prueba (si usás alguno)
+test/
+debug/
+
+# 💻 Si usás Visual Studio Code u otro editor
+.vscode/
+*.code-workspace
